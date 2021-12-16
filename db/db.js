@@ -6,7 +6,7 @@ og.connect({
 	user: 'root',//用户名，没有可不填
 	password: '123456',//密码，没有可不填
 	database: 'location',//数据库名称
-	   timezone: "08:00"  // 时区
+	timezone: "08:00"  // 时区
 });
 
 

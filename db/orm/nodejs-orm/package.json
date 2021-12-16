@@ -1,0 +1,23 @@
+{
+  "name": "mysql-og",
+  "version": "2.2.2",
+  "description": "orm for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "orm for node"
+  },
+  "repository": {
+  },
+  "keywords": [
+    "mysql",
+    "orm"
+  ],
+  "dependencies": {
+    "mysql": "~2.17.1"
+  },
+  "devDependencies": {
+    "mysql": "~2.17.1"
+  }
+  
+}
+
